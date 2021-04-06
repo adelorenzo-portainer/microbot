@@ -16,7 +16,7 @@ Intended use is to demo docker orchestration
 ## Usage
 ### From your machine
 ```
-docker run -d -p "8080:80" registry.oe74.net/microbot
+docker run -d -p "8080:80" registry.oe74.net/portainer-microbot
 ```
 
 ## Build
